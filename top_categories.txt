@@ -1,0 +1,5 @@
+Plant-based foods and beverages: 371
+Snacks: 304
+Aliments et boissons à base de végétaux: 244
+Condiments: 108
+null: 67
